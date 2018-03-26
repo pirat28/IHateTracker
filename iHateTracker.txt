@@ -25,6 +25,9 @@ ad11.adfarm1.adition.com
 ad12.adfarm1.adition.com
 ad13.adfarm1.adition.com
 c1.adform.net
+certify-js.alexametrics.com
+cdn.ampproject.org
+img.abendblatt.de
 
 #b
 
@@ -89,6 +92,7 @@ tracking.emsmobile.de
 dyn.emetriq.de
 cdn.edgedatg.com
 cdn1.edgedatg.com
+a.espncdn.com
 
 #f
 
@@ -120,6 +124,7 @@ secure-us.imrworldwide.com
 3dchip.de.intellitxt.com
 seccdn-gl.imrworldwide.com
 js-sec.indexww.com
+1.f.ix.de
 
 #j
 
@@ -137,6 +142,7 @@ a-ssl.ligatus.com
 js.logentries.com
 microsites.lotto24.de
 pp.lp4.io
+snap.licdn.com
 
 #m
 
@@ -147,6 +153,8 @@ de-gmtdmp.mookie1.com
 static-tagr.gd1.mookie1.com
 s243.meetrics.net
 cdn.m-pathy.com
+gm.mmstat.com
+log.mmstat.com
 
 #n
 
@@ -155,6 +163,7 @@ www.nerfherdersolo.com
 www.nickles.de
 ip-s.nuggad.net
 wcs.naver.net
+hb.nexage.com
 
 #o
 
@@ -168,6 +177,7 @@ wetteronline-d.openx.net
 us.onscroll.com
 amplify.outbrain.com
 cdn3.optimizely.com
+mobileposse-d.openx.net
 
 #p
 
@@ -178,6 +188,7 @@ www.pizzaandads.com
 data.photorank.me
 placelocal.com
 creative.placelocal.com
+client.perimeterx.net
 
 #q
 
@@ -191,6 +202,7 @@ hb.sekindo.com
 kickerde.damoh.schneevonmorgen.com
 cdn.speedcurve.com
 sb.scorecardresearch.com
+i1.sinaimg.cn
 
 #t
 
@@ -214,8 +226,12 @@ visitor-service.tealiumiq.com
 ads.urban-media.com
 united.uimserv.net
 by2.uservoice.com
+cdn.unid.go.com
+static.wikia.nocookie.net
 
 #v
+
+ssl-welt.met.vgwort.de
 
 #w
 
@@ -227,6 +243,8 @@ grunerjahr01.wt-eu02.net
 j.wfcdn.de
 cs4.wettercomassets.com
 sftv-ssl.wemfbox.ch
+vignette.wikia.nocookie.net
+fandom.wikia.com
 
 #x
 
