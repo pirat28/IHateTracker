@@ -12,6 +12,8 @@
 
 #0-9
 
+tlx.3lift.com
+
 #a
 
 img.adtr02.com
@@ -113,6 +115,7 @@ imasdk.googleapis.com
 js.gumgum.com
 fonts.gstatic.com
 geodb.api.tamedia.ch
+s.go-mpulse.net
 
 #h
 
@@ -143,6 +146,7 @@ js.logentries.com
 microsites.lotto24.de
 pp.lp4.io
 snap.licdn.com
+ap.lijit.com
 
 #m
 
@@ -156,6 +160,7 @@ cdn.m-pathy.com
 gm.mmstat.com
 log.mmstat.com
 
+
 #n
 
 1ryzas42x65e2oosia40bgli.wpengine.netdna-cdn.com 
@@ -164,6 +169,7 @@ www.nickles.de
 ip-s.nuggad.net
 wcs.naver.net
 hb.nexage.com
+js-agent.newrelic.com
 
 #o
 
@@ -178,6 +184,7 @@ us.onscroll.com
 amplify.outbrain.com
 cdn3.optimizely.com
 mobileposse-d.openx.net
+timeanddate-d.openx.net
 
 #p
 
@@ -245,6 +252,7 @@ cs4.wettercomassets.com
 sftv-ssl.wemfbox.ch
 vignette.wikia.nocookie.net
 fandom.wikia.com
+cs3.wettercomassets.com
 
 #x
 
