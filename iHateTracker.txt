@@ -116,8 +116,11 @@ js.gumgum.com
 fonts.gstatic.com
 geodb.api.tamedia.ch
 s.go-mpulse.net
+rp.gwallet.com
 
 #h
+
+vars.hotjar.com
 
 #i
 
@@ -196,6 +199,7 @@ data.photorank.me
 placelocal.com
 creative.placelocal.com
 client.perimeterx.net
+jadserve.postrelease.com
 
 #q
 
@@ -210,6 +214,7 @@ kickerde.damoh.schneevonmorgen.com
 cdn.speedcurve.com
 sb.scorecardresearch.com
 i1.sinaimg.cn
+btlr.sharethrough.com
 
 #t
 
