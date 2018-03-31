@@ -29,7 +29,6 @@ ad13.adfarm1.adition.com
 c1.adform.net
 certify-js.alexametrics.com
 cdn.ampproject.org
-img.abendblatt.de
 
 #b
 
@@ -82,6 +81,7 @@ cm.g.doubleclick.net
 bskyb.demdex.net
 def-platform.net
 ad.doubleclick.net
+dpm.demdex.net
 
 #e
 
@@ -145,6 +145,7 @@ dc.ads.linkedin.com
 px.ads.linkedin.com
 src.litix.io
 a-ssl.ligatus.com
+ssl.ligatus.com
 js.logentries.com
 microsites.lotto24.de
 pp.lp4.io
@@ -173,6 +174,7 @@ ip-s.nuggad.net
 wcs.naver.net
 hb.nexage.com
 js-agent.newrelic.com
+d.nativendo.de
 
 #o
 
@@ -215,6 +217,7 @@ cdn.speedcurve.com
 sb.scorecardresearch.com
 i1.sinaimg.cn
 btlr.sharethrough.com
+cdn.stroeerdigitalmedia.de
 
 #t
 
@@ -244,6 +247,7 @@ static.wikia.nocookie.net
 #v
 
 ssl-welt.met.vgwort.de
+ssl-gala.met.vgwort.de
 
 #w
 
