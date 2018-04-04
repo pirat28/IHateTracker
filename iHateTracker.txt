@@ -29,6 +29,12 @@ ad13.adfarm1.adition.com
 c1.adform.net
 certify-js.alexametrics.com
 cdn.ampproject.org
+aka-cdn-ns.adtech.de
+static.airserve.net
+heartbeat.airserve.net
+code3.adtlgc.com
+static-olxeu.akamaized.net
+track.adform.net
 
 #b
 
@@ -38,6 +44,9 @@ pixel.bild.de
 rem-track.bild.de
 mybbc-analytics.files.bbci.co.uk
 static.bbci.co.uk
+webanalytics.btelligent.net
+bilasolur.is
+cdn.branch.io
 
 #c
 
@@ -52,6 +61,8 @@ settings.crashlytics.com
 platform3.cloud-iq.com
 s.clickiocdn.com
 api.contentpass.net
+tags.crwdcntrl.net
+scdn.cxense.com
 
 # cloudfont
 
@@ -72,6 +83,7 @@ d3nocrch4qti4v.cloudfront.net
 d1pux066p3zvi3.cloudfront.net
 d33wwcok8lortz.cloudfront.net
 djvbdz1obemzo.cloudfront.net
+d1225795gabrip.cloudfront.net
 
 
 #d
@@ -82,6 +94,7 @@ bskyb.demdex.net
 def-platform.net
 ad.doubleclick.net
 dpm.demdex.net
+ stats.g.doubleclick.net
 
 #e
 
@@ -131,12 +144,14 @@ secure-us.imrworldwide.com
 seccdn-gl.imrworldwide.com
 js-sec.indexww.com
 1.f.ix.de
+static.iltalehti.fi
 
 #j
 
 #k
 
 lmyd3iz3qn.kameleoon.eu
+admp-tc.kauppalehti.fi
 
 #l
 
@@ -163,6 +178,10 @@ s243.meetrics.net
 cdn.m-pathy.com
 gm.mmstat.com
 log.mmstat.com
+cdn.mbl.is
+www.mbl.is
+secure.mbl.is
+st.mtv.fi
 
 
 #n
@@ -190,6 +209,7 @@ amplify.outbrain.com
 cdn3.optimizely.com
 mobileposse-d.openx.net
 timeanddate-d.openx.net
+uusi.op.fi
 
 #p
 
@@ -202,10 +222,17 @@ placelocal.com
 creative.placelocal.com
 client.perimeterx.net
 jadserve.postrelease.com
+ads.pressan.is
+cdn.petametrics.com
 
 #q
 
+secure.quantserve.com
+rules.quantcount.com
+
 #r
+
+www.remintrex.com
 
 #s
 
@@ -218,6 +245,9 @@ sb.scorecardresearch.com
 i1.sinaimg.cn
 btlr.sharethrough.com
 cdn.stroeerdigitalmedia.de
+ssl-is.spring-tns.net
+sn.sanoma.fi
+ssl-mtv3.spring-tns.net
 
 #t
 
@@ -235,6 +265,10 @@ dmp.theadex.com
 stats.t-online.de
 collect-eu-central-1.tealiumiq.com
 visitor-service.tealiumiq.com
+tcr.tynt.com
+pressan-is.teljari.is
+secure.teljari.is
+s1.twnmm.com
 
 #u
 
@@ -248,6 +282,7 @@ static.wikia.nocookie.net
 
 ssl-welt.met.vgwort.de
 ssl-gala.met.vgwort.de
+i49.vbox7.com
 
 #w
 
@@ -269,6 +304,7 @@ cs3.wettercomassets.com
 
 ads.yagiay.com
 ad.yieldlab.net
+static.ylilauta.org
 
 #z
 
