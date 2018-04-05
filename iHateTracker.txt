@@ -13,6 +13,8 @@
 #0-9
 
 tlx.3lift.com
+fd.3.cn
+168logger.com
 
 #a
 
@@ -35,6 +37,15 @@ heartbeat.airserve.net
 code3.adtlgc.com
 static-olxeu.akamaized.net
 track.adform.net
+ib.adnxs.com
+aka-cdn.adtech.de
+cdn.adnuntius.com
+adtag.cc
+tag.audience.acpm.fr
+c.amazon-adsystem.com
+tag.aticdn.net
+tag.audience.acpm.fr
+cdn.adsafeprotected.com
 
 #b
 
@@ -47,6 +58,7 @@ static.bbci.co.uk
 webanalytics.btelligent.net
 bilasolur.is
 cdn.branch.io
+cdn.bigmining.com
 
 #c
 
@@ -63,6 +75,8 @@ s.clickiocdn.com
 api.contentpass.net
 tags.crwdcntrl.net
 scdn.cxense.com
+as.casalemedia.com
+radar.cedexis.com
 
 # cloudfont
 
@@ -94,7 +108,8 @@ bskyb.demdex.net
 def-platform.net
 ad.doubleclick.net
 dpm.demdex.net
- stats.g.doubleclick.net
+stats.g.doubleclick.net
+stat.i3.dmm.com
 
 #e
 
@@ -108,6 +123,7 @@ dyn.emetriq.de
 cdn.edgedatg.com
 cdn1.edgedatg.com
 a.espncdn.com
+skv.analytics.elx.cloud
 
 #f
 
@@ -116,6 +132,8 @@ connect.facebook.net
 0914.global.ssl.fastly.net
 53e1270541f5.cdn4.forter.com
 mssl.fwmrm.net
+fogl1onf.com
+a.f1g.fr
 
 #g
 
@@ -130,6 +148,10 @@ fonts.gstatic.com
 geodb.api.tamedia.ch
 s.go-mpulse.net
 rp.gwallet.com
+ad-specs.guoshipartners.com
+pixel.glimr.io
+cdn.getblueshift.com
+goutee.top
 
 #h
 
@@ -145,6 +167,7 @@ seccdn-gl.imrworldwide.com
 js-sec.indexww.com
 1.f.ix.de
 static.iltalehti.fi
+track.mk.impact-ad.jp
 
 #j
 
@@ -166,6 +189,9 @@ microsites.lotto24.de
 pp.lp4.io
 snap.licdn.com
 ap.lijit.com
+weblio.hs.llnwd.net
+i-ssl.ligatus.com
+s1.lemde.fr
 
 #m
 
@@ -182,7 +208,9 @@ cdn.mbl.is
 www.mbl.is
 secure.mbl.is
 st.mtv.fi
-
+tpt.mysocialpixel.com
+static.mediarithmics.com
+mediaathay.org.uk
 
 #n
 
@@ -194,6 +222,9 @@ wcs.naver.net
 hb.nexage.com
 js-agent.newrelic.com
 d.nativendo.de
+bs.nakanohito.jp
+trase.nuggad.net
+js-agent.newrelic.com
 
 #o
 
@@ -210,6 +241,8 @@ cdn3.optimizely.com
 mobileposse-d.openx.net
 timeanddate-d.openx.net
 uusi.op.fi
+s407.meetrics.net
+all.orfr.adgtw.orangeads.f
 
 #p
 
@@ -224,15 +257,20 @@ client.perimeterx.net
 jadserve.postrelease.com
 ads.pressan.is
 cdn.petametrics.com
+js.ptengine.jp
+statsweb.proxad.net
 
 #q
 
 secure.quantserve.com
 rules.quantcount.com
+edge.quantserve.com
 
 #r
 
 www.remintrex.com
+ads.rubiconproject.com
+cdn.reverso.net
 
 #s
 
@@ -248,6 +286,8 @@ cdn.stroeerdigitalmedia.de
 ssl-is.spring-tns.net
 sn.sanoma.fi
 ssl-mtv3.spring-tns.net
+jssdk.pulse.schibsted.com
+p.skimresources.com
 
 #t
 
@@ -269,6 +309,8 @@ tcr.tynt.com
 pressan-is.teljari.is
 secure.teljari.is
 s1.twnmm.com
+cdn.treasuredata.com
+rd.tabelog.com
 
 #u
 
@@ -277,12 +319,14 @@ united.uimserv.net
 by2.uservoice.com
 cdn.unid.go.com
 static.wikia.nocookie.net
+visitanalytics.userreport.com
 
 #v
 
 ssl-welt.met.vgwort.de
 ssl-gala.met.vgwort.de
 i49.vbox7.com
+service.videoplaza.tv
 
 #w
 
@@ -297,14 +341,20 @@ sftv-ssl.wemfbox.ch
 vignette.wikia.nocookie.net
 fandom.wikia.com
 cs3.wettercomassets.com
+groupelemonde.solution.weborama.fr
+c.woopic.com
 
 #x
+
+logs1406.xiti.com
 
 #y
 
 ads.yagiay.com
 ad.yieldlab.net
 static.ylilauta.org
+s.yjtag.jp
+b92.yahoo.co.jp
 
 #z
 
