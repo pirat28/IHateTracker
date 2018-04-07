@@ -59,6 +59,7 @@ webanalytics.btelligent.net
 bilasolur.is
 cdn.branch.io
 cdn.bigmining.com
+eu-services.babator.com
 
 #c
 
@@ -327,6 +328,8 @@ ssl-welt.met.vgwort.de
 ssl-gala.met.vgwort.de
 i49.vbox7.com
 service.videoplaza.tv
+px2.vtrtl.de
+de-ipd.videoplaza.tv
 
 #w
 
