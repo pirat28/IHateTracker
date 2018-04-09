@@ -15,6 +15,7 @@
 tlx.3lift.com
 fd.3.cn
 168logger.com
+ad.360yield.com
 
 #a
 
@@ -46,6 +47,9 @@ c.amazon-adsystem.com
 tag.aticdn.net
 tag.audience.acpm.fr
 cdn.adsafeprotected.com
+surveygizmobeacon.s3.amazonaws.com
+sanoma-346822-hdb.adomik.com
+
 
 #b
 
@@ -135,6 +139,7 @@ connect.facebook.net
 mssl.fwmrm.net
 fogl1onf.com
 a.f1g.fr
+sinst.fwdcdn.com
 
 #g
 
@@ -153,10 +158,13 @@ ad-specs.guoshipartners.com
 pixel.glimr.io
 cdn.getblueshift.com
 goutee.top
+vice-euwest.gscontxt.net
 
 #h
 
 vars.hotjar.com
+script.hotjar.com
+static.hotjar.com
 
 #i
 
@@ -176,6 +184,14 @@ track.mk.impact-ad.jp
 
 lmyd3iz3qn.kameleoon.eu
 admp-tc.kauppalehti.fi
+beacon.krxd.net
+geo.kaloo.ga
+assets.kaloo.ga
+consumer.krxd.net
+cdn.krxd.net
+publishing.kaloo.ga
+jslog.krxd.net
+events.kaloo.ga
 
 #l
 
@@ -193,6 +209,7 @@ ap.lijit.com
 weblio.hs.llnwd.net
 i-ssl.ligatus.com
 s1.lemde.fr
+loadercdn.com
 
 #m
 
@@ -212,6 +229,8 @@ st.mtv.fi
 tpt.mysocialpixel.com
 static.mediarithmics.com
 mediaathay.org.uk
+r3.mail.ru
+nl-gmtdmp.mookie1.com
 
 #n
 
@@ -225,7 +244,6 @@ js-agent.newrelic.com
 d.nativendo.de
 bs.nakanohito.jp
 trase.nuggad.net
-js-agent.newrelic.com
 
 #o
 
@@ -243,7 +261,8 @@ mobileposse-d.openx.net
 timeanddate-d.openx.net
 uusi.op.fi
 s407.meetrics.net
-all.orfr.adgtw.orangeads.f
+all.orfr.adgtw.orangeads.fi
+ninja.onap.io
 
 #p
 
@@ -272,6 +291,9 @@ edge.quantserve.com
 www.remintrex.com
 ads.rubiconproject.com
 cdn.reverso.net
+flapi2.rubiconproject.com
+ads.rubiconproject.com
+flapi1.rubiconproject.com
 
 #s
 
@@ -321,6 +343,8 @@ by2.uservoice.com
 cdn.unid.go.com
 static.wikia.nocookie.net
 visitanalytics.userreport.com
+target.ukr.net
+static-cache.ua.uaprom.net
 
 #v
 
@@ -330,6 +354,7 @@ i49.vbox7.com
 service.videoplaza.tv
 px2.vtrtl.de
 de-ipd.videoplaza.tv
+vice-ads-cdn.vice.com
 
 #w
 
