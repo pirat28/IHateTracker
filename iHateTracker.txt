@@ -49,6 +49,7 @@ tag.audience.acpm.fr
 cdn.adsafeprotected.com
 surveygizmobeacon.s3.amazonaws.com
 sanoma-346822-hdb.adomik.com
+a248.e.akamai.net
 
 
 #b
@@ -64,6 +65,7 @@ bilasolur.is
 cdn.branch.io
 cdn.bigmining.com
 eu-services.babator.com
+tags.bluekai.com
 
 #c
 
@@ -82,6 +84,7 @@ tags.crwdcntrl.net
 scdn.cxense.com
 as.casalemedia.com
 radar.cedexis.com
+rscdn.cxense.com
 
 # cloudfont
 
@@ -103,18 +106,24 @@ d1pux066p3zvi3.cloudfront.net
 d33wwcok8lortz.cloudfront.net
 djvbdz1obemzo.cloudfront.net
 d1225795gabrip.cloudfront.net
+d5i9o0tpq9sa1.cloudfront.net
 
 
 #d
 
-securepubads.g.doubleclick.net
-cm.g.doubleclick.net
 bskyb.demdex.net
 def-platform.net
-ad.doubleclick.net
 dpm.demdex.net
-stats.g.doubleclick.net
 stat.i3.dmm.com
+oms.dowjoneson.com
+
+#doubleclick
+
+5290727.fls.doubleclick.net
+securepubads.g.doubleclick.net
+cm.g.doubleclick.net
+ad.doubleclick.net
+stats.g.doubleclick.net
 
 #e
 
@@ -232,6 +241,8 @@ mediaathay.org.uk
 r3.mail.ru
 nl-gmtdmp.mookie1.com
 tag.md-nx.com
+jssdkcdns.mparticle.com
+contextual.media.net
 
 #n
 
@@ -245,6 +256,10 @@ js-agent.newrelic.com
 d.nativendo.de
 bs.nakanohito.jp
 trase.nuggad.net
+us.tags.newscgp.com
+nvg.newsvine.com
+static01.nyt.com
+static02.nyt.com
 
 #o
 
@@ -257,7 +272,10 @@ cdn.onthe.io
 wetteronline-d.openx.net
 us.onscroll.com
 amplify.outbrain.com
+cdn.optimizely.com
+cdn2.optimizely.com
 cdn3.optimizely.com
+cdn4.optimizely.com
 mobileposse-d.openx.net
 timeanddate-d.openx.net
 uusi.op.fi
@@ -335,6 +353,7 @@ secure.teljari.is
 s1.twnmm.com
 cdn.treasuredata.com
 rd.tabelog.com
+ssl.cdn.turner.com
 
 #u
 
