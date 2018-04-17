@@ -174,6 +174,7 @@ vice-euwest.gscontxt.net
 vars.hotjar.com
 script.hotjar.com
 static.hotjar.com
+healte.de
 
 #i
 
@@ -243,6 +244,7 @@ nl-gmtdmp.mookie1.com
 tag.md-nx.com
 jssdkcdns.mparticle.com
 contextual.media.net
+s290.mxcdn.net
 
 #n
 
@@ -375,6 +377,7 @@ service.videoplaza.tv
 px2.vtrtl.de
 de-ipd.videoplaza.tv
 vice-ads-cdn.vice.com
+spiegel.met.vgwort.de
 
 #w
 
