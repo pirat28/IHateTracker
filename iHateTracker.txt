@@ -50,7 +50,7 @@ cdn.adsafeprotected.com
 surveygizmobeacon.s3.amazonaws.com
 sanoma-346822-hdb.adomik.com
 a248.e.akamai.net
-
+js.adscale.de
 
 #b
 
@@ -168,6 +168,7 @@ pixel.glimr.io
 cdn.getblueshift.com
 goutee.top
 vice-euwest.gscontxt.net
+go.giga-abs.de
 
 #h
 
@@ -245,6 +246,7 @@ tag.md-nx.com
 jssdkcdns.mparticle.com
 contextual.media.net
 s290.mxcdn.net
+tracking.m6r.eu
 
 #n
 
@@ -285,6 +287,7 @@ s407.meetrics.net
 all.orfr.adgtw.orangeads.fi
 ninja.onap.io
 images.outbrain.com
+tags.onscroll.com
 
 #p
 
@@ -333,6 +336,8 @@ sn.sanoma.fi
 ssl-mtv3.spring-tns.net
 jssdk.pulse.schibsted.com
 p.skimresources.com
+cdn.stroeerdigitalgroup.de
+gocp.stroeermediabrands.de
 
 #t
 
@@ -373,6 +378,7 @@ static-cache.ua.uaprom.net
 
 ssl-welt.met.vgwort.de
 ssl-gala.met.vgwort.de
+ssl-econa.met.vgwort.de
 i49.vbox7.com
 service.videoplaza.tv
 px2.vtrtl.de
@@ -399,6 +405,7 @@ c.woopic.com
 #x
 
 logs1406.xiti.com
+cdn.xplosion.de
 
 #y
 
@@ -407,6 +414,7 @@ ad.yieldlab.net
 static.ylilauta.org
 s.yjtag.jp
 b92.yahoo.co.jp
+cdn-a.yieldlove.com
 
 #z
 
