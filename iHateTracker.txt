@@ -59,7 +59,6 @@ static.bbci.co.uk
 pixel.bild.de
 rem-track.bild.de
 mybbc-analytics.files.bbci.co.uk
-static.bbci.co.uk
 webanalytics.btelligent.net
 bilasolur.is
 cdn.branch.io
@@ -85,6 +84,7 @@ scdn.cxense.com
 as.casalemedia.com
 radar.cedexis.com
 rscdn.cxense.com
+as-sec.casalemedia.com
 
 # cloudfont
 
@@ -107,7 +107,7 @@ d33wwcok8lortz.cloudfront.net
 djvbdz1obemzo.cloudfront.net
 d1225795gabrip.cloudfront.net
 d5i9o0tpq9sa1.cloudfront.net
-
+d3c3cq33003psk.cloudfront.net
 
 #d
 
@@ -116,6 +116,7 @@ def-platform.net
 dpm.demdex.net
 stat.i3.dmm.com
 oms.dowjoneson.com
+cdn.diply.com
 
 #doubleclick
 
@@ -138,6 +139,7 @@ cdn.edgedatg.com
 cdn1.edgedatg.com
 a.espncdn.com
 skv.analytics.elx.cloud
+me-cdn.effectivemeasure.net
 
 #f
 
@@ -247,6 +249,7 @@ jssdkcdns.mparticle.com
 contextual.media.net
 s290.mxcdn.net
 tracking.m6r.eu
+z.moatads.com
 
 #n
 
@@ -288,6 +291,7 @@ all.orfr.adgtw.orangeads.fi
 ninja.onap.io
 images.outbrain.com
 tags.onscroll.com
+player.ooyala.com
 
 #p
 
@@ -319,6 +323,7 @@ cdn.reverso.net
 flapi2.rubiconproject.com
 ads.rubiconproject.com
 flapi1.rubiconproject.com
+tap-secure.rubiconproject.com
 
 #s
 
@@ -362,6 +367,8 @@ s1.twnmm.com
 cdn.treasuredata.com
 rd.tabelog.com
 ssl.cdn.turner.com
+static.tacdn.com
+ophan.theguardian.com
 
 #u
 
