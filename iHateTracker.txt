@@ -125,6 +125,7 @@ securepubads.g.doubleclick.net
 cm.g.doubleclick.net
 ad.doubleclick.net
 stats.g.doubleclick.net
+5291104.fls.doubleclick.net
 
 #e
 
@@ -196,6 +197,7 @@ track.mk.impact-ad.jp
 #k
 
 lmyd3iz3qn.kameleoon.eu
+0blbku3esh.kameleoon.eu
 admp-tc.kauppalehti.fi
 beacon.krxd.net
 geo.kaloo.ga
@@ -250,6 +252,7 @@ contextual.media.net
 s290.mxcdn.net
 tracking.m6r.eu
 z.moatads.com
+d.madsack-native.de
 
 #n
 
@@ -308,6 +311,9 @@ ads.pressan.is
 cdn.petametrics.com
 js.ptengine.jp
 statsweb.proxad.net
+click-de.plista.com
+static-de.plista.com
+farm-de.plista.com
 
 #q
 
@@ -392,6 +398,7 @@ px2.vtrtl.de
 de-ipd.videoplaza.tv
 vice-ads-cdn.vice.com
 spiegel.met.vgwort.de
+handball-deutschland.vidibuscloud.net
 
 #w
 
