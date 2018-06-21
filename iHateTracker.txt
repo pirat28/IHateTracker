@@ -408,11 +408,11 @@ geid.wbtrk.net
 cdn.wbtrk.net
 grunerjahr01.wt-eu02.net
 j.wfcdn.de
-cs4.wettercomassets.com
+#cs4.wettercomassets.com
 sftv-ssl.wemfbox.ch
 vignette.wikia.nocookie.net
 fandom.wikia.com
-cs3.wettercomassets.com
+#cs3.wettercomassets.com
 groupelemonde.solution.weborama.fr
 c.woopic.com
 
