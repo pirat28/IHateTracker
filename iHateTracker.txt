@@ -363,7 +363,6 @@ cdn.tsyndicate.com
 technical-service.net
 www.technical-service.net
 dmp.theadex.com
-stats.t-online.de
 collect-eu-central-1.tealiumiq.com
 visitor-service.tealiumiq.com
 tcr.tynt.com
