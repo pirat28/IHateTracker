@@ -16,6 +16,7 @@ tlx.3lift.com
 fd.3.cn
 168logger.com
 ad.360yield.com
+s0.2mdn.net
 
 #a
 
@@ -172,6 +173,10 @@ cdn.getblueshift.com
 goutee.top
 vice-euwest.gscontxt.net
 go.giga-abs.de
+pagead.googlesyndication.com
+pagead0.googlesyndication.com
+pagead1.googlesyndication.com
+pagead2.googlesyndication.com
 
 #h
 
