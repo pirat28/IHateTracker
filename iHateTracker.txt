@@ -234,6 +234,9 @@ weblio.hs.llnwd.net
 i-ssl.ligatus.com
 s1.lemde.fr
 loadercdn.com
+click.ns2.lnglobal.pl
+ns2.lnglobal.pl
+lnglobal.pl
 
 #m
 
