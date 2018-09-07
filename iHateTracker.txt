@@ -180,7 +180,9 @@ pagead2.googlesyndication.com
 encrypted-tbn.gstatic.com
 encrypted-tbn1.gstatic.com
 encrypted-tbn2.gstatic.com
-encrypted-tbn3.gstatic.com 
+encrypted-tbn3.gstatic.com
+inradbox.goly.club
+kolom.goly.club
 
 #h
 
@@ -388,6 +390,8 @@ ssl.cdn.turner.com
 static.tacdn.com
 ophan.theguardian.com
 www.tracking-kmms.de
+e.top4top.net
+f.top4top.net
 
 #u
 
@@ -412,6 +416,7 @@ de-ipd.videoplaza.tv
 vice-ads-cdn.vice.com
 spiegel.met.vgwort.de
 handball-deutschland.vidibuscloud.net
+costout.voloned.club
 
 #w
 
