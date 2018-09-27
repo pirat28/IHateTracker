@@ -367,7 +367,7 @@ gocp.stroeermediabrands.de
 
 #t
 
-visitor-service.tealiumiq.com
+# visitor-service.tealiumiq.com
 collect-eu-central-1.tealiumiq.com
 www.technical-service.net
 api.theadex.com
@@ -379,7 +379,6 @@ technical-service.net
 www.technical-service.net
 dmp.theadex.com
 collect-eu-central-1.tealiumiq.com
-visitor-service.tealiumiq.com
 tcr.tynt.com
 pressan-is.teljari.is
 secure.teljari.is
