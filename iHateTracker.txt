@@ -52,6 +52,7 @@ surveygizmobeacon.s3.amazonaws.com
 sanoma-346822-hdb.adomik.com
 a248.e.akamai.net
 js.adscale.de
+aisvox-a.akamaihd.net
 
 #b
 
@@ -267,6 +268,7 @@ s290.mxcdn.net
 tracking.m6r.eu
 z.moatads.com
 d.madsack-native.de
+newsletter.madfinger.com
 
 #n
 
@@ -345,6 +347,7 @@ flapi2.rubiconproject.com
 ads.rubiconproject.com
 flapi1.rubiconproject.com
 tap-secure.rubiconproject.com
+rebrand.ly
 
 #s
 
@@ -390,6 +393,7 @@ ophan.theguardian.com
 www.tracking-kmms.de
 e.top4top.net
 f.top4top.net
+server2.thebitcoinsgroup.com
 
 #u
 
