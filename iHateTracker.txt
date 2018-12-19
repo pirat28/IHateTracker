@@ -367,6 +367,10 @@ jssdk.pulse.schibsted.com
 p.skimresources.com
 cdn.stroeerdigitalgroup.de
 gocp.stroeermediabrands.de
+xp-3wzx4bad9nbn.synonymsandsuch.com
+xp-7cztrat116v1.synonymsandsuch.com
+synonymsandsuch.com
+
 
 #t
 
@@ -440,6 +444,9 @@ c.woopic.com
 
 logs1406.xiti.com
 cdn.xplosion.de
+r.news.xilisoft.com
+news.xilisoft.com
+xilisoft.com
 
 #y
 
