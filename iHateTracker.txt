@@ -53,6 +53,7 @@ sanoma-346822-hdb.adomik.com
 a248.e.akamai.net
 js.adscale.de
 aisvox-a.akamaihd.net
+www.awin1.com
 
 #b
 
