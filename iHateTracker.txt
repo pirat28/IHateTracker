@@ -1,14 +1,18 @@
-######################################
+###########################################
 ###
 ### I Hate Traker
 ### by: Pirat28
 ###
 ### URL list for the Pi-Hole 
 ###
-### Ads and Tracker which other 
-### lists may not found
+### Ads and Tracker which other lists may
+### not found
+###
+### Now also includes some unblocked URLs
+### found in ads.txt on differend websites
+### (example: www.websitename.com/ads.txt) 
 ### 
-######################################
+###########################################
 
 #0-9
 
@@ -461,4 +465,68 @@ cdn-a.yieldlove.com
 #z
 
 3596.tm.zedo.com
+
+##### Found in ADS.TXT and was not blocked #####
+
+
+# A
+
+# B
+beachfront.com
+Biddr.io
+
+# C
+coxmt.com
+
+# D
+danmarketplace.com
+
+#E
+
+# F
+freewheel.tv
+
+# G
+
+# H
+
+# I
+improvedigital.com
+indexexchange.com
+
+# J
+
+# K
+
+# L
+loopme.com
+
+# M
+
+# N
+
+# O
+
+# P
+
+# Q
+
+# R
+
+# S
+
+# T
+
+# U
+
+# V
+
+# W
+
+# X
+
+# Y
+
+# Z
+
 
