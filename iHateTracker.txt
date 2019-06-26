@@ -466,6 +466,7 @@ cdn-a.yieldlove.com
 
 3596.tm.zedo.com
 
+
 ##### Found in ADS.TXT and was not blocked #####
 
 
@@ -481,12 +482,15 @@ coxmt.com
 # D
 danmarketplace.com
 
-#E
+# E
+e1.emxdgt.com
+emxdgt.com
 
 # F
 freewheel.tv
 
 # G
+getpolymorph.com
 
 # H
 
@@ -502,6 +506,7 @@ indexexchange.com
 loopme.com
 
 # M
+memevideoad.com
 
 # N
 
@@ -514,8 +519,10 @@ loopme.com
 # R
 
 # S
+stroeer.com
 
 # T
+thetimmedia.com
 
 # U
 
@@ -526,6 +533,7 @@ loopme.com
 # X
 
 # Y
+ssp.ynxs.io
 
 # Z
 
