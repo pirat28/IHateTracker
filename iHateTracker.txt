@@ -475,9 +475,11 @@ cdn-a.yieldlove.com
 # B
 beachfront.com
 Biddr.io
+brightcom.com
 
 # C
 coxmt.com
+cedato.com
 
 # D
 danmarketplace.com
@@ -520,6 +522,7 @@ memevideoad.com
 
 # S
 stroeer.com
+sovrn.com
 
 # T
 thetimmedia.com
