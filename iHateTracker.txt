@@ -403,6 +403,8 @@ www.tracking-kmms.de
 e.top4top.net
 f.top4top.net
 server2.thebitcoinsgroup.com
+tags.tiqcdn.com
+c2.taboola.com
 
 #u
 
