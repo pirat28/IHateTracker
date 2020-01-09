@@ -58,6 +58,7 @@ a248.e.akamai.net
 js.adscale.de
 aisvox-a.akamaihd.net
 www.awin1.com
+gumtree-121212-hdb.adomik.com
 
 #b
 
@@ -115,6 +116,7 @@ djvbdz1obemzo.cloudfront.net
 d1225795gabrip.cloudfront.net
 d5i9o0tpq9sa1.cloudfront.net
 d3c3cq33003psk.cloudfront.net
+d3tsytm1wtjqo2.cloudfront.net
 
 #d
 
@@ -309,6 +311,7 @@ cdn3.optimizely.com
 cdn4.optimizely.com
 mobileposse-d.openx.net
 timeanddate-d.openx.net
+gumtreeuk-d.openx.net
 uusi.op.fi
 s407.meetrics.net
 all.orfr.adgtw.orangeads.fi
@@ -317,6 +320,7 @@ images.outbrain.com
 tags.onscroll.com
 player.ooyala.com
 insta.octacoresdash.club
+u.openx.net
 
 #p
 
