@@ -171,7 +171,7 @@ www.google-analytics.com
 aglobal.go.com
 imasdk.googleapis.com
 js.gumgum.com
-fonts.gstatic.com
+# fonts.gstatic.com - Breaks a lot of Google stuff
 geodb.api.tamedia.ch
 s.go-mpulse.net
 rp.gwallet.com
@@ -185,10 +185,10 @@ pagead.googlesyndication.com
 pagead0.googlesyndication.com
 pagead1.googlesyndication.com
 pagead2.googlesyndication.com
-encrypted-tbn.gstatic.com
-encrypted-tbn1.gstatic.com
-encrypted-tbn2.gstatic.com
-encrypted-tbn3.gstatic.com
+# encrypted-tbn.gstatic.com
+# encrypted-tbn1.gstatic.com - Breaks some Google News articles on Android app
+# encrypted-tbn2.gstatic.com
+# encrypted-tbn3.gstatic.com - This breaks the layout of some webpages
 inradbox.goly.club
 kolom.goly.club
 
@@ -291,8 +291,8 @@ bs.nakanohito.jp
 trase.nuggad.net
 us.tags.newscgp.com
 nvg.newsvine.com
-static01.nyt.com
-static02.nyt.com
+# static01.nyt.com - static01.nyt.com domain breaks NYT embedded videos
+static02.nyt.com 
 
 #o
 
@@ -397,7 +397,7 @@ dmp.theadex.com
 tcr.tynt.com
 pressan-is.teljari.is
 secure.teljari.is
-s1.twnmm.com
+# s1.twnmm.com - Blocking this domain breaks the layout
 cdn.treasuredata.com
 rd.tabelog.com
 ssl.cdn.turner.com
@@ -443,9 +443,9 @@ geid.wbtrk.net
 cdn.wbtrk.net
 grunerjahr01.wt-eu02.net
 j.wfcdn.de
-#cs4.wettercomassets.com
+# cs4.wettercomassets.com
 sftv-ssl.wemfbox.ch
-vignette.wikia.nocookie.net
+# vignette.wikia.nocookie.net - This hosts most of the icons on many different Wikis.
 fandom.wikia.com
 #cs3.wettercomassets.com
 groupelemonde.solution.weborama.fr
