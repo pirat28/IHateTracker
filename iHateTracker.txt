@@ -36,7 +36,7 @@ ad12.adfarm1.adition.com
 ad13.adfarm1.adition.com
 c1.adform.net
 certify-js.alexametrics.com
-cdn.ampproject.org
+# cdn.ampproject.org - now Google AMP - for mobile websites important
 aka-cdn-ns.adtech.de
 static.airserve.net
 heartbeat.airserve.net
