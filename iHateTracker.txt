@@ -63,7 +63,6 @@ gumtree-121212-hdb.adomik.com
 #b
 
 tanz.biallo2.de
-static.bbci.co.uk
 pixel.bild.de
 rem-track.bild.de
 mybbc-analytics.files.bbci.co.uk
@@ -101,7 +100,6 @@ d63r8xi1zu867.cloudfront.net
 d3h5bk8iotgjvw.cloudfront.net
 d21m0ezw6fosyw.cloudfront.net
 d25xi40x97liuc.cloudfront.net
-dmqdd6hw24ucf.cloudfront.net
 d1l0nb3g075aoz.cloudfront.net
 dekk1bfmkupib.cloudfront.net
 d3oerj8nt59rd2.cloudfront.net
@@ -147,7 +145,6 @@ tracking.emsmobile.de
 dyn.emetriq.de
 cdn.edgedatg.com
 cdn1.edgedatg.com
-a.espncdn.com
 skv.analytics.elx.cloud
 me-cdn.effectivemeasure.net
 
@@ -401,7 +398,6 @@ secure.teljari.is
 cdn.treasuredata.com
 rd.tabelog.com
 ssl.cdn.turner.com
-static.tacdn.com
 ophan.theguardian.com
 www.tracking-kmms.de
 e.top4top.net
