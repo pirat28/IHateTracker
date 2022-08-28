@@ -411,7 +411,7 @@ ads.urban-media.com
 united.uimserv.net
 by2.uservoice.com
 cdn.unid.go.com
-static.wikia.nocookie.net
+# static.wikia.nocookie.net
 visitanalytics.userreport.com
 target.ukr.net
 static-cache.ua.uaprom.net
